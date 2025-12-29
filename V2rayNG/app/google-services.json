@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301910737530",
+    "project_id": "legacyvpn11",
+    "storage_bucket": "legacyvpn11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301910737530:android:d35a71eab824180977f1c3",
+        "android_client_info": {
+          "package_name": "com.legacy11.leg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpi-02eb5lo-GTVP_GLRRlUJEPcrp8hBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
