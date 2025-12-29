@@ -1,0 +1,5 @@
+appname=Legacy VPN
+appid=com.lagacy.lagacyvpn
+appversion=1.0.0
+appversioncode=1
+appdomain=https://live.n-cpanel.xyz
